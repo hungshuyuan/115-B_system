@@ -20,7 +20,7 @@
 
 [IAI nkust](https://www.iai.nkust.edu.tw)
 
-![風景圖](https://picsum.photos/600/300)
+![風景圖](1.jpg)
 
 > 生活不是等待暴風雨過去，而是學會在雨中跳舞。
 
